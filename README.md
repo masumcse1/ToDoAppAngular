@@ -16,7 +16,7 @@ You need to make a Todo app with these requirements:
 All the other specific requirements are up to you
 
 ## Technical requirements
-* Use any frontend framework but Vaadin (https://vaadin.com/) is strongly recommended and would be a huge benefit
+* Use AngularJS for frontend
 * For backend use Java EE
 * Use any database (Postgres, Oracle, etc.)
 * Make a Maven project
