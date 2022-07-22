@@ -1,0 +1,13 @@
+GIT commands
+
+
+
+https://github.com/masumcse1/mymeveo.git
+
+
+git clone -b  fullcycle  https://github.com/masumcse1/mymeveo.git
+git checkout -b feature_issuefix 
+git branch test1
+git checkout test1
+
+git push origin update-readme
